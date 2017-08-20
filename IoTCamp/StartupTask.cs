@@ -16,7 +16,7 @@ namespace IoTCamp
 
         static string iotHubUri = "{Place Hub Uri Here";
         static string deviceKey = "{Place IoT Hub Device Key Here}";
-        static string deviceId = "{Place Device ID Here};
+        static string deviceId = "{Place Device ID Here}";
 
         public async void Run(IBackgroundTaskInstance taskInstance)
         {
